@@ -1,0 +1,52 @@
+.chriscard{
+    background-image: url("https://res.cloudinary.com/digdliiab/image/upload/v1669014257/colorful-holi-festival-background-free-vector_c9pnxx.jpg");
+    background-size: cover;
+    height:30vh;
+}
+.heading{
+color:white;
+font-size:bold;
+font-family: Arial, Helvetica, sans-serif;
+padding-top:60px;
+}
+.chriscardbottom{
+    background-color:#a9e6e8;
+    height:120vh;
+   
+}
+.imageres{
+    height:80px;
+    width:80px;
+}
+.christmascard{
+    background-image: url("https://res.cloudinary.com/digdliiab/image/upload/v1669013854/people-celebrating-holi-festival_52683-56525_fv0xg4.jpg");
+    width:150px;
+    border-radius: 15px;
+    padding:5px;
+    height: 150px;
+    text-align: center;
+    margin:20px;
+}
+.chrisheading{
+    font-size:15px ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color:darkred;
+}
+.chrispara{
+ font-weight:bold ;
+ color: brown;
+}
+.christmascard:hover{
+    transform:scale(2);
+    cursor:grab;
+}
+.text-center:hover{
+    transform:scale(1.08);
+    cursor:grab;
+}
+.two{
+    margin-top: 50px;
+    color:darkred;
+    background-color: lightskyblue;
+}
